@@ -30,7 +30,7 @@
           <div class="d-flex my-2 justify-content-center align-items-center">
             <p class="font-weight-bolder d-md-flex text-right text-md-center" style="color: #5e5873; font-size: 12px;">
               <span style="" class="d-md-none">STAKE WITH US.</span> <br class="d-md-none" />
-              24/7 MONITORED SERVICE.<br class="d-md-none" /> 1% COMMISSION UNTIL EOY 2022. 
+              24/7 MONITORED SERVICE.<br class="d-md-none" />
               <span class="d-none d-md-block" style="padding-left:3px;">STAKE WITH US.</span>
             </p>
           </div>
